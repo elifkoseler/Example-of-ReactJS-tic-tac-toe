@@ -1,0 +1,40 @@
+.Game {
+  text-align: center;
+}
+
+.status{
+  color: blue;
+}
+.square{
+  font-style: italic;
+  font-size: 20px;
+  width: 50px;
+  height: 40px;
+  color: #3F0C40;
+  justify-content: center;
+  background-color: #F2C7AE;
+  font-weight: bold;
+  font-family: cursive;
+  overflow: auto;
+}
+.squares{
+  justify-content: center;
+
+}
+.Board{
+  width: 500%;
+  height: 200%;
+  align-items: center;
+
+}
+.game{
+  color: #9AA63F;
+  font-size: 25px;
+  font-style: italic;
+  font-family: cursive;
+  font-stretch: extra-condensed;
+
+  border-spacing: inherit;
+  justify-content: center;
+
+}
