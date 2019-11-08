@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 And also the project was made by helping with [Introduction to ReactJS Tutorial](https://tr.reactjs.org/tutorial/tutorial.html), just the code of CSS was specified by me. In addition, readme file was used ready from the beginning of the project.
 
 ---
