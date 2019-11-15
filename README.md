@@ -1,4 +1,4 @@
-### The sample screenshots of the program
+#### *The sample screenshots of the program:*
 ![alt text](./0.PNG "beginning")
 
 ---
