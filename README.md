@@ -1,6 +1,12 @@
 ### The sample screenshots of the program
 ![alt text](./0.PNG "beginning")
+
+---
+
 ![alt text](./1.PNG "next player")
+
+---
+
 ![alt text](./2.PNG "winner")
 
 ---
